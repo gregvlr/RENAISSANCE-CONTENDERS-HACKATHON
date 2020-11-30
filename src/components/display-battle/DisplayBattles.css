@@ -1,0 +1,14 @@
+.battles-wrapper {
+  display: flex;
+
+  justify-content: space-between;
+  height: max-content;
+}
+
+.battles-container {
+  height: 100%;
+}
+
+.timer {
+  padding-left: 15px;
+}
